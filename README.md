@@ -1,2 +1,6 @@
 # hello-world-
-new  learning 
+
+int main()
+{
+  printf("hello, world\n");
+  }
